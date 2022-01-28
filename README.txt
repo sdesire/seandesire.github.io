@@ -6,4 +6,4 @@ Hello there! Im Sean!
 ✍️  In my free time, I love to read up on new bleeding edge technologies and manga!
 💬  Im really an open book, so feel free to contact me.
 ✉️  You can shoot me an email at sdesire2@hawkmail.hccfl.edu! I’ll respond as soon as I can.
-📄  Please have a look at my [Résumé](https://docs.google.com/document/d/1bpnGbyNZGvrgdpAxtybo-dIG5__lUVBNRhs5r6KV_mM/edit?usp=sharing) for more details about me. I’m open to feedback and suggestions!
+📄  Please have a look at my [Link to Résumé](https://docs.google.com/document/d/1bpnGbyNZGvrgdpAxtybo-dIG5__lUVBNRhs5r6KV_mM/edit?usp=sharing) for more details about me. I’m open to feedback and suggestions!
